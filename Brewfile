@@ -46,19 +46,20 @@ brew 'zsh-history-substring-search'
 brew 'zsh-syntax-highlighting'
 brew 'zsh'
 
-
 brew 'postgresql', start_service: false
 brew 'mysql', start_service: false
 brew 'redis', start_service: false
 
-
 cask 'alfred'
+cask 'captain'
 cask 'daisydisk'
 cask 'firefox-developer-edition'
 cask 'google-chrome'
 cask 'google-backup-and-sync'
 cask 'harvest'
 cask 'iterm2'
+cask 'slack'
+cask 'spotify'
 cask 'telegram'
 cask 'visual-studio-code'
 cask 'vlc'
